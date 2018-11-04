@@ -1,1 +1,1 @@
-# This is a project that started from Flask by Example.
+# This is a project that forked from Flask by Example.
